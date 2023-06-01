@@ -81,3 +81,6 @@ You can customize the hyperparameters and other settings according to your needs
 ## Contributing
 
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## References
+- [Janner M, Fu J, Zhang M, Levine S. When to trust your model: Model-based policy optimization. Advances in neural information processing systems. 2019;32.](https://proceedings.neurips.cc/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html)
